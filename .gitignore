@@ -1,0 +1,17 @@
+.idea/
+venv/
+__pycache__/
+*.sqli*
+
+.env
+.env.local
+*.log
+*.log*
+*.log.*
+logs/
+.cache/
+.local/
+.pytest_cache/
+.DS_Store
+
+
